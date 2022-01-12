@@ -7,8 +7,7 @@ router.get('/', (req, res) => {
   Category.findAll({
     include: [
       {
-        model: Product,
-        attributes: ["id"]
+        model: Product
       }
     ]
   })
@@ -27,8 +26,7 @@ router.get('/:id', (req, res) => {
     },
     include: [
       {
-        model: Product,
-        attributes: ["id"],
+        model: Product
       }
     ]
   })
