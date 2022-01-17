@@ -16,7 +16,8 @@ Walkthrough video is split into two parts as free memberships only allow shorter
 
 ## Video Link
 Part 1: https://watch.screencastify.com/v/piJI09ldUE9NLQrYM4ui
-Part 2: https://watch.screencastify.com/v/piJI09ldUE9NLQrYM4ui
+
+Part 2: https://watch.screencastify.com/v/UVs586JUurqoTqSXicNE
 
 ## Contribution
 Shaun Sticka
